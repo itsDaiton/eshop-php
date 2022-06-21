@@ -1,0 +1,17 @@
+{
+  "name": "4iz278/semestralni-prace",
+  "description": "Semestrální práce",
+  "minimum-stability": "stable",
+  "type": "project",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "David Poslušný"
+    }
+  ],
+  "require": {
+      "php": ">= 7.2",
+      "phpmailer/phpmailer": "^6.1",
+      "mpdf/mpdf": "^8.0"
+  }
+}
