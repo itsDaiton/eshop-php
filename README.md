@@ -11,8 +11,6 @@ Aplikace nabízí uživatelům nakupovat a prohlížet a nakupovat zboží ve fi
 
 Uživatelé jsou poté rozděleni na normální uživatele e-shopu a administrátory, kteří dokáží v aplikaci provádět různé změny jako je přidání zboží, úprava zboží, objednávek a další administrátorské úkony.
 
-## Getting Started
-
 ### Použité knihovny
 
 * **mpdf** - knihovna na generování .pdf souborů
