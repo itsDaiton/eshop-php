@@ -18,7 +18,7 @@ Uživatelé jsou poté rozděleni na normální uživatele e-shopu a administrá
 
 ## Pomoc
 
-V případě problémů při spuštění aplikace či při jejím hraní mi neváhejte napsat.
+V případě problémů při spuštění aplikace či při jejím provozu mi neváhejte napsat.
 
 ## Autoři
 
